@@ -18,6 +18,6 @@ Reference the repository from this location using:
 
 ```groovy
 dependencies {
-    compile "com.laenger.android:{libraryname}:{version}"
+    compile "biz.laenger.android:{libraryname}:{version}"
 }
 ```
