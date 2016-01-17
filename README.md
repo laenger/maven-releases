@@ -9,6 +9,7 @@ This repository contains versions for Android libraries using Maven.
 subprojects {
     repositories {
         maven { url "https://raw.github.com/laenger/maven-releases/master/releases" }
+        maven { url "https://raw.github.com/laenger/maven-releases/master/snapshots" }
     }
 }
 
