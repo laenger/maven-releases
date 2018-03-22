@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>biz.laenger.android</groupId>
+  <artifactId>vpbs</artifactId>
+  <version>0.0.5</version>
+  <packaging>aar</packaging>
+  <name>ViewPagerBottomSheetBehavior</name>
+  <description>Android BottomSheetBehavior with ViewPager support</description>
+  <url>https://github.com/laenger/ViewPagerBottomSheet</url>
+  <developers>
+    <developer>
+      <id>laenger</id>
+      <name>Christian Langer</name>
+      <email>mail@laenger.biz</email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:git@github.com:laenger/ViewPagerBottomSheet.git</connection>
+    <developerConnection>scm:git:git@github.com:laenger/ViewPagerBottomSheet.git</developerConnection>
+    <url>https://github.com/laenger/ViewPagerBottomSheet</url>
+  </scm>
+  <dependencies>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>design</artifactId>
+      <version>27.1.0</version>
+    </dependency>
+  </dependencies>
+</project>
